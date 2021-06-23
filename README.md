@@ -4,4 +4,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Welcome to the Github Finder
 
-This application allows users to serach for other users on GitHub
+This application allows users to search for other users on GitHub
